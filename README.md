@@ -15,5 +15,5 @@ All the cleaning, preprocessing, analysing have been done using python.
 And the Dashboard was created by using Streamlit. 
 
 
-![alt text](https://github.com/[Lucasblld]/[streamlit_health_app]/blob/main/health.png?raw=true)
+![alt text](https://github.com/[Lucasblld]/[streamlit_health_app]/blob/README.md/health.png?raw=true)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
