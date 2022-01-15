@@ -19,5 +19,3 @@ And the Dashboard was created by using Streamlit.
 <img src="./health.png">
 
 <img src="./sport.png">
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
